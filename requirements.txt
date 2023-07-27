@@ -6,4 +6,3 @@ pyjwt
 pysaml2
 python-jose
 python-ldap
-zxcvbn
